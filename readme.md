@@ -5,21 +5,13 @@
 
 ```
 |-> datasets 
-
     |-> synthetic
-    
     |-> taxibj
-    
 |-> data_exploration
-
     |-> visualizing_sampling_strategies.py
-    
 |-> baseline_knn
-
 |-> ours_DSRN
-
     |-> synthetic
-    
     |-> taxibj
 ```
 
