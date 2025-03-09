@@ -3,7 +3,7 @@
 
 ## Repo structure
 
-
+```
 |-> datasets 
 
     |-> synthetic
@@ -21,7 +21,7 @@
     |-> synthetic
     
     |-> taxibj
-
+```
 
 ## Data exploration
 
